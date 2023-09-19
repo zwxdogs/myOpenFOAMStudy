@@ -1,0 +1,3 @@
+myPhieBCFvPatchScalarField.C
+
+LIB= $(FOAM_USER_LIBBIN)/libmyPhieBCFvPatchScalarField
